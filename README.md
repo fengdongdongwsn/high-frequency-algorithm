@@ -2,6 +2,10 @@
 
 **<font color="green">题目来源</font>**
 
+> **<font color="red">本文最新的题目更新在</font>**
+>
+> **https://github.com/fengdongdongwsn/high-frequency-algorithm**
+
 本文收集了在面试中，公司高频出现的算法题目。避免你在准备开始刷题或者是正在刷题时，没有目标。力扣题目实在是太多了。但是我们没有必要去把每道题都刷一遍。本系列题目主要来源如下：
 
 > - **<font color="red">牛客面经整理的面经真题</font>**
@@ -226,6 +230,10 @@
 | 死锁的案例              |
 
 **<font color="red">本文题目持续更新。。。。</font>**
+
+> **<font color="red">本文最新的题目更新在</font>**
+>
+> **https://github.com/fengdongdongwsn/high-frequency-algorithm**
 
 **<font color="blur">给个支持呗:heart:</font>**
 
